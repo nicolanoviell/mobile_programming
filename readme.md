@@ -15,3 +15,9 @@
   - Scambio dati mediante JSON
   - Documentazione dei servizi con Swagger e Postman
   - Integrazione con Api RESTful pubbliche
+- **Lezione 3/4**: Flutter e Dart Foundation [Slide parte 1](slide/lezione3.pdf) [Slide parte 2](slide/lezione4.pdf)
+  - Basi di Flutter
+  - Sintassi di Dart
+  - Comprendere il funzionamento del framework
+  - Primi approcci alla creazione di un progetto
+  - Widgets
