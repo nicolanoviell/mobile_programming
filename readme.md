@@ -21,4 +21,4 @@
   - Comprendere il funzionamento del framework
   - Primi approcci alla creazione di un progetto
   - Widgets
-- **Lezione 4**: Flutter e Dart Foundation (parte 2) [Slide parte 2](slide/lezione4.pdf) 
+- **Lezione 4**: Flutter e Dart Foundation (parte 2) [Slide parte 2](slide/lezione4.pdf) -  [Esercizio 2](code/lezione4/esercizio2.dart) - [Esercizio 3](code/lezione4/esercizio3.dart)
