@@ -22,3 +22,4 @@
   - Primi approcci alla creazione di un progetto
   - Widgets
 - **Lezione 4**: Flutter e Dart Foundation (parte 2) [Slide parte 2](slide/lezione4.pdf) -  [Esercizio 2](code/lezione4/esercizio2.dart) - [Esercizio 3](code/lezione4/esercizio3.dart)
+- **Lezione 5**: Flutter e Dart Foundation (parte 3) [Slide parte 3](slide/lezione5.pdf) -  [Codice](code/lezione5/lezione5.zip)
