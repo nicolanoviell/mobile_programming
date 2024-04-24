@@ -25,3 +25,5 @@
 - **Lezione 4**: Flutter e Dart Foundation (parte 2) [Slide parte 2](slide/lezione4.pdf) -  [Esercizio 2](code/lezione4/esercizio2.dart) - [Esercizio 3](code/lezione4/esercizio3.dart)
 - **Lezione 5**: Flutter e Dart Foundation (parte 3) [Slide parte 3](slide/lezione5.pdf) -  [Codice](code/lezione5/lezione5.zip)
 - **Lezione 6**: Flutter e Dart Foundation (parte 4) [Slide parte 4](slide/lezione6.pdf) -  [Codice](code/lezione6/lezione6.zip)
+- **Lezione 7**: Introduzione a Git e GitHub [Slide](slide/lezione7.pdf)
+- **Lezione 8**: Flutter e Dart - Funzionalità avanzate (parte 1) [Slide parte 1](slide/lezione8.pdf)
