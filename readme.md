@@ -33,5 +33,11 @@
   - Risoluzione dei conflitti
   - .gitignore
   - Cenni introduttivi di tecniche avanzate
-  
-- **Lezione 7**: Flutter e Dart - Funzionalità avanzate (parte 1) [Slide parte 1](slide/lezione7.pdf)
+- **Lezione 7**: Flutter e Dart - Funzionalità avanzate (parte 1) [Slide parte 1](slide/lezione7.pdf) - [Codice esercizio 1](code/lezione7/esercizio1.zip) - [Codice esercizio 2](code/lezione7/esercizio2.zip)
+  - Rendering dei contenuti in base a criteri condizionali
+  - Approfondimento del ciclo di vita di un Widget Stateful
+  - Espressioni ternarie e operatori condizionali
+  - Data Model
+  - Stili, Allineamento, Margini e Padding
+  - Integrazione con Package di terze parti
+  - Contenuti Scrollabili
