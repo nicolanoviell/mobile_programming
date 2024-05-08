@@ -42,6 +42,7 @@
   - Integrazione con Package di terze parti
   - Contenuti Scrollabili
 - **Lezione 8**: Flutter e Dart - Funzionalità avanzate (parte 2) [Slide parte 2](slide/lezione8.pdf) - [Codice esercizio](code/lezione8/esercizio.zip)
+- **Evento Google Developer Group**: [Registrazione Evento Unimol](https://gdg.community.dev/events/details/google-gdg-campobasso-presents-flutter-e-gemini-ia-multipiattaforma/) - [Registrazione Evento Campobasso](https://gdg.community.dev/events/details/google-gdg-campobasso-presents-flutter-zero-to-hero/)  
 - **Lezione 9**: Temi, Gestione dell’asincronia, Navigazione e chiamate HTTP (parte 1) [Slide parte 1](slide/lezione9.pdf) - [Codice esercizio 1](code/lezione9/esercizio1.zip)
   - Panoramica sull’uso dei temi
   - Navigazione tra schermate
