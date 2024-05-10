@@ -51,3 +51,4 @@
   - Networking in flutter
   - Parsing di JSON
   - Gestione Location
+- **Lezione 10**: Temi, Gestione dell’asincronia, Navigazione e chiamate HTTP (parte 2) [Slide parte 2](slide/lezione10.pdf) - [Codice esercizio 2](code/lezione10/esercizio2.zip) - [Codice esercizio 3](code/lezione10/esercizio3.zip) - [Codice esercizio 4](code/lezione10/esercizio4.zip)
