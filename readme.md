@@ -52,3 +52,11 @@
   - Parsing di JSON
   - Gestione Location
 - **Lezione 10**: Temi, Gestione dell’asincronia, Navigazione e chiamate HTTP (parte 2) [Slide parte 2](slide/lezione10.pdf) - [Codice esercizio 2](code/lezione10/esercizio2.zip) - [Codice esercizio 3](code/lezione10/esercizio3.zip) - [Codice esercizio 4](code/lezione10/esercizio4.zip)
+- **Lezione 11**: Gestione liste e input (parte 1 e 2) [Slide parte 1 e 2](slide/lezione11.pdf) - [Codice esercizio 1](code/lezione11/esercizio1.zip) - [Codice esercizio 2](code/lezione11/esercizio2.zip) - [Codice progetto finale](code/lezione11/progetto.zip)
+  - Utilizzo delle ListView
+  - Utilizzo di input specifici
+  - Modali
+  - Date Picker
+  - Dialog
+  - SnackBar
+  - Switch tra temi
