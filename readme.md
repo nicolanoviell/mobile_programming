@@ -60,3 +60,7 @@
   - Dialog
   - SnackBar
   - Switch tra temi
+- - **Lezione 12**: Persistenza dei dati [Slide](slide/lezione12.pdf) - [Codice chiave-valore](code/lezione12/chiavevalore.zip) - [Codice file](code/lezione12/file.zip) - [Codice SQLite](code/lezione12/sqlite.zip)
+  - key-value data  / shared preferences
+  - Scrittura su file
+  - Persistenza su SQLite
