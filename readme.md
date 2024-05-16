@@ -60,7 +60,13 @@
   - Dialog
   - SnackBar
   - Switch tra temi
-- - **Lezione 12**: Persistenza dei dati [Slide](slide/lezione12.pdf) - [Codice chiave-valore](code/lezione12/chiavevalore.zip) - [Codice file](code/lezione12/file.zip) - [Codice SQLite](code/lezione12/sqlite.zip)
+- **Lezione 12**: Persistenza dei dati - [Slide](slide/lezione12.pdf) - [Codice chiave-valore](code/lezione12/chiavevalore.zip) - [Codice file](code/lezione12/file.zip) - [Codice SQLite](code/lezione12/sqlite.zip)
   - key-value data  / shared preferences
   - Scrittura su file
   - Persistenza su SQLite
+- **Lezione 13**: Utilizzo delle feature native dei device mobile (parte 1) - [Slide](slide/lezione13.pdf) - [Progetto di partenza](code/lezione13/progetto_di_partenza.zip) - [Riverpod](code/lezione13/riverpod.zip)
+  - Persistenza degli stati
+  - Riverpod
+  - Utilizzo della camera
+  - Location e Google Maps
+- **Lezione 14**: Utilizzo delle feature native dei device mobile (parte 2) - [Slide](slide/lezione14.pdf) 
