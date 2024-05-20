@@ -69,4 +69,4 @@
   - Riverpod
   - Utilizzo della camera
   - Location e Google Maps
-- **Lezione 14**: Utilizzo delle feature native dei device mobile (parte 2) - [Slide](slide/lezione14.pdf) 
+- **Lezione 14**: Utilizzo delle feature native dei device mobile (parte 2) - [Slide](slide/lezione14.pdf) - [Progetto location](code/lezione14/location.zip) - [Progetto location con mappa](code/lezione14/locationmap.zip)- [Progetto finale](code/lezione14/locationcompleto.zip)
