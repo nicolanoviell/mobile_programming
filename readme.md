@@ -70,7 +70,7 @@
   - Utilizzo della camera
   - Location e Google Maps
 - **Lezione 14**: Utilizzo delle feature native dei device mobile (parte 2) - [Slide](slide/lezione14.pdf) - [Progetto location](code/lezione14/location.zip) - [Progetto location con mappa](code/lezione14/locationmap.zip)- [Progetto finale](code/lezione14/locationcompleto.zip)
-- **Lezione 15**: Firebase (parte 1) - [Slide](slide/lezione15.pdf) - [Funzionalità di login](code/lezione15/login.zip) -
+- **Lezione 15**: Firebase - [Slide](slide/lezione15.pdf) - [Funzionalità di login](code/lezione15/login.zip) - [Upload immagine](code/lezione15/image.zip)- [Chat](code/lezione15/chat.zip) - [Notifiche](code/lezione15/notifiche.zip)
   - Creazione di un progetto Firebase
   - Gestione dell’autenticazione
   - Salvataggio informazioni in remoto
