@@ -76,3 +76,4 @@
   - Salvataggio informazioni in remoto
   - Salvataggio file in remoto
   - Notifiche push
+  - **Lezione 16**: Lab Flutter AI - [Slide](slide/lezione16.pdf) - [Progetto chat](code/lezione16/chat.zip)
