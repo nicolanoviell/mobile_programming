@@ -76,5 +76,8 @@
   - Salvataggio informazioni in remoto
   - Salvataggio file in remoto
   - Notifiche push
-  - **Lezione 16**: Lab Flutter AI - [Slide](slide/lezione16.pdf) - [Progetto chat](code/lezione16/chat.zip)
-  - **Lezione 17**: Test in Flutter - [Slide non definitive](slide/lezione17.pdf)
+- **Lezione 16**: Lab Flutter AI - [Slide](slide/lezione16.pdf) - [Progetto chat](code/lezione16/chat.zip)
+- **Lezione 17**: Test in Flutter - [Slide](slide/lezione17.pdf)
+  - Unit Test
+  - Widget Test
+  - Integration Test
