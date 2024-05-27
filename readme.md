@@ -81,3 +81,6 @@
   - Unit Test
   - Widget Test
   - Integration Test
+- **Lezione 18**: CI/CD Flutter - [Slide](slide/lezione18.pdf)
+  - DevOps / DevSecOps
+  - GitHub Actions con Flutter - Test e Sicurezza
